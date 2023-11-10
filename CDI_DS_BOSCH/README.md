@@ -4,7 +4,7 @@ Este proyecto se centra en analizar y clasificar casos de COVID-19 utilizando t�
 
 ## Conjunto de Datos
 
-El conjunto de datos utilizado se obtuvo de [fuente del conjunto de datos]. Contiene información detallada sobre casos de COVID-19, incluyendo diversas variables como sexo, edad, comorbilidades y resultados de pruebas.
+El conjunto de datos utilizado se obtuvo de datos.gob.mx . Contiene información detallada sobre casos de COVID-19, incluyendo diversas variables como sexo, edad, comorbilidades y resultados de pruebas.
 
 ## Preprocesamiento de Datos
 
