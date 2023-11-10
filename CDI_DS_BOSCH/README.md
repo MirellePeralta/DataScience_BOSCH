@@ -10,7 +10,7 @@ El conjunto de datos utilizado se obtuvo de [Datos Abiertos sobre COVID-19 en M�
 
 Antes de aplicar modelos de clasificación, se realizaron varias operaciones de preprocesamiento:
 
-- Eliminación de registros no relevantes (por ejemplo, casos con clasificación 2, 4 o 5).
+- Eliminación de registros no relevantes.
 - Eliminación de columnas no influyentes para el análisis.
 - Manejo de valores nulos y ajuste de formatos de fecha.
 
