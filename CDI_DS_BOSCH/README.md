@@ -4,7 +4,7 @@ Este proyecto se centra en analizar y clasificar casos de COVID-19 utilizando t�
 
 ## Conjunto de Datos
 
-El conjunto de datos utilizado se obtuvo de datos.gob.mx . Contiene información detallada sobre casos de COVID-19, incluyendo diversas variables como sexo, edad, comorbilidades y resultados de pruebas.
+El conjunto de datos utilizado se obtuvo de [Datos Abiertos sobre COVID-19 en México](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico). Contiene información detallada sobre casos de COVID-19, incluyendo diversas variables como sexo, edad, comorbilidades y resultados de pruebas.
 
 ## Preprocesamiento de Datos
 
@@ -39,10 +39,3 @@ Se utilizó el algoritmo de Bosques Aleatorios para construir un modelo de clasi
 ## Interfaz de Usuario Interactiva
 
 Se implementó una interfaz de usuario interactiva utilizando Gradio para permitir a los usuarios realizar predicciones sobre nuevos casos de COVID-19 basándose en los modelos entrenados.
-
-## Instrucciones de Uso
-
-1. **Clonar el Repositorio:**
-   ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
-   cd tu_proyecto
